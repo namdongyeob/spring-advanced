@@ -63,7 +63,6 @@ jwt.secret.key={시크릿키}
 ### 🔥 도전 기능
 
 #### Lv 5. 어드민 API 로깅
-- **Interceptor**: `AdminInterceptor`로 어드민 권한 검증 + 접근 시각/URL 로깅
 - **AOP**: `AdminAspect`로 요청/응답 데이터를 JSON으로 상세 로깅
 
 ## 🌳 브랜치 전략
